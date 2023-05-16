@@ -1,0 +1,24 @@
+html{
+  background-color: #74bacc;
+  text-align:center;
+}
+
+h1{
+  color: white;
+}
+img{
+  display: grid;
+  margin: 0 auto;
+
+
+}
+
+/* .floor{
+  width: 400px;
+  height: 80px;
+  background: rgb(155,179,203);
+  border-radius: 200px / 40px;
+  position: relative;
+  display: grid;
+  margin: 0 auto;
+} */
